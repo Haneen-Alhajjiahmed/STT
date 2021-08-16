@@ -1,5 +1,5 @@
 # STT
-Live Speech To Text API with Watson 
+Live Speech To Text API with Watson + Python
 
 # Pre-requirement 
 * You need an IBM Cloud account.
